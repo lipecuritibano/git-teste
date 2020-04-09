@@ -1,0 +1,19 @@
+{
+  "name": "git-teste",
+  "version": "1.0.0",
+  "description": "Este é o projeto git e node básico",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lipecuritibano/git-teste.git"
+  },
+  "author": "Marco Felipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lipecuritibano/git-teste/issues"
+  },
+  "homepage": "https://github.com/lipecuritibano/git-teste#readme"
+}
